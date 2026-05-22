@@ -6,7 +6,7 @@ metadata:
   name: kcna
   namespace: wave2
 spec:
-  replicas: 4
+  replicas: 1
   selector:
     matchLabels:
       app: kcna
