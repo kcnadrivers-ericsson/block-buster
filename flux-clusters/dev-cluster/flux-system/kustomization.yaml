@@ -4,4 +4,3 @@ resources:
 - deploymentkcna.yaml
 - gotk-components.yaml
 - gotk-sync.yaml
-- networkpolicy.yaml
