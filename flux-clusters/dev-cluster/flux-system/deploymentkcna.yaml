@@ -17,7 +17,7 @@ spec:
         app: kcna
     spec:
       containers:
-      - image: busybox
+      - image: nginx
         name: nginx
         resources: {}
 status: {}
